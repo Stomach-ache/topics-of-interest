@@ -14,6 +14,7 @@
 |multi-modal learning			|       |       |          |
 |multi-instance learning			|       |       |          |
 |Reinforcement Learning		|       |       |          |	
+|Zero-shot Learning			|       |       |          |
 |crowdsourcing			|       |       |          |
 |ADMM			|       |       |          |
 |BFGS			|       |       |          |
@@ -25,3 +26,4 @@
 |Graph-based Semi-Supervised Learning			|       |       |          |
 |cross validation	|	Hao Liu	|       |       |
 |EM Algorithm			|       |       |          |
+|Collaborative Filtering   |       |       |          |
