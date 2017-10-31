@@ -23,5 +23,5 @@
 |detection (cv)			|       |       |          |
 |Graphical model		|       |       |          |	
 |Graph-based Semi-Supervised Learning			|       |       |          |
-|cross validation		Hao Liu	
+|cross validation	|	Hao Liu	|       |       |
 |EM Algorithm			|       |       |          |
