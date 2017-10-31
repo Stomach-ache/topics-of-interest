@@ -14,6 +14,7 @@
 |multi-modal learning			|       |       |          |
 |multi-instance learning			|       |       |          |
 |Reinforcement Learning		|       |       |          |	
+|Deep Reinforcement Learning		|       |       |          |	
 |Zero-shot Learning			|       |       |          |
 |crowdsourcing			|       |       |          |
 |ADMM			|       |       |          |
