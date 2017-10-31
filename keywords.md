@@ -1,5 +1,6 @@
 | Keywords       | Who           | Date  | Remarks
 | ------------- |:-------------:| --------------:|------------:|
+|Basketball			|   Tong Wei    |   2017-10-31   |     This is an example item   |
 |bandit			|       |       |          |
 |sparse coding		|       |       |          |	
 |hash			|       |       |          |
