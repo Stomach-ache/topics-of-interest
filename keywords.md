@@ -4,7 +4,7 @@
 |bandit			|       |       |          |
 |sparse coding		|       |       |          |	
 |hash			|       |       |          |
-|auto encoder			|       |       |          |
+|auto encoder			| Hao Liu      |       |          |
 |pca			|       |       |          |
 |submodular			|       |       |          |
 |online learning			|       |       |          |
@@ -19,9 +19,9 @@
 |BFGS			|       |       |          |
 |Boosting			|       |       |          |
 |Bagging			|       |       |          |
-|GAN			|       |       |          |
+|GAN			| Hao Liu      |       |          |
 |detection (cv)			|       |       |          |
 |Graphical model		|       |       |          |	
 |Graph-based Semi-Supervised Learning			|       |       |          |
-|cross validation			
+|cross validation		Hao Liu	
 |EM Algorithm			|       |       |          |
