@@ -18,13 +18,13 @@
 |Zero-shot Learning			|       |       |          |
 |crowdsourcing			|       |       |          |
 |ADMM			|       |       |          |
-|BFGS			|       |       |          |
+|BFGS			|   Hao-Chen Dong   |       |          |
 |Boosting			|       |       |          |
 |Bagging			|       |       |          |
 |GAN			| Hao Liu      |       |          |
 |detection (cv)			|       |       |          |
 |Graphical model		|       |       |          |	
-|Graph-based Semi-Supervised Learning			|       |       |          |
+|Graph-based Semi-Supervised Learning			|   Hao-Chen Dong   |       |          |
 |cross validation	|	Hao Liu	|       |       |
 |EM Algorithm			|       |       |          |
 |Collaborative Filtering   |       |       |          |
