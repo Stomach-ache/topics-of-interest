@@ -3,4 +3,4 @@ This page was created to maintain a list of keywords chosen to be introduced in 
 
 Note:
 1. Please feel free to add new keywords
-2. If you find inappropriate keywords, just let them be there.
+2. If you find some keywords are inappropriate , just let them be there.
