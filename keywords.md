@@ -15,7 +15,7 @@
 |multi-instance learning			|       |       |          |
 |Reinforcement Learning		|       |       |          |	
 |Deep Reinforcement Learning		|       |       |          |	
-|Zero-shot Learning			|       |       |          |
+|One/Zero-shot Learning			|  Lan-Zhe Guo     |       |          |
 |crowdsourcing			|       |       |          |
 |ADMM			|       |       |          |
 |BFGS			|   Hao-Chen Dong   |       |          |
