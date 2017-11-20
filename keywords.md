@@ -9,7 +9,8 @@
 |submodular			|       |       |          |
 |online learning			|       |       |          |
 |active learning			|       |       |          |
-|transfer learning		|       |       |          |	
+|transfer learning		|       |       |          |
+|meta learning        |Lan-Zhe Guo    |       |          |
 |multi-task learning		|       |       |          |	
 |multi-modal learning			|       |       |          |
 |multi-instance learning			|       |       |          |
