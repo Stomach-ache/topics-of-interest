@@ -10,7 +10,7 @@
 |online learning			|       |       |          |
 |active learning			|       |       |          |
 |transfer learning		|       |       |          |
-|meta learning        |Lan-Zhe Guo    |       |          |
+|meta learning        |Lan-Zhe Guo    |   2017-11-21    |          |
 |multi-task learning		|       |       |          |	
 |multi-modal learning			|       |       |          |
 |multi-instance learning			|       |       |          |
@@ -29,3 +29,4 @@
 |cross validation	|	Hao Liu	|       |       |
 |EM Algorithm			|       |       |          |
 |Collaborative Filtering   |       |       |          |
+|Matrix Completion| Yong-Heng Chen | 2017-11-21|
