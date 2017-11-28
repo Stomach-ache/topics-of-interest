@@ -30,3 +30,4 @@
 |EM Algorithm			|       |       |          |
 |Collaborative Filtering   |       |       |          |
 |Matrix Completion| Yong-Heng Chen | 2017-11-21|
+|Clustering| Feng Shi | 2017-11-28|
