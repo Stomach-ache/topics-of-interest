@@ -14,7 +14,7 @@
 |multi-task learning		|       |       |          |	
 |multi-modal learning			|       |       |          |
 |multi-instance learning			|       |       |          |
-|Reinforcement Learning		|       |       |          |	
+|Reinforcement Learning		|   Tong Wei    |       |          |	
 |Deep Reinforcement Learning		|       |       |          |	
 |One/Zero-shot Learning			|  Lan-Zhe Guo     |       |          |
 |crowdsourcing			|       |       |          |
