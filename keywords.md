@@ -14,7 +14,7 @@
 |multi-task learning		|       |       |          |	
 |multi-modal learning			|       |       |          |
 |multi-instance learning			|       |       |          |
-|Reinforcement Learning		|   Tong Wei    |       |          |	
+|Reinforcement Learning		|       |       |          |	
 |Deep Reinforcement Learning		|       |       |          |	
 |One/Zero-shot Learning			|  Lan-Zhe Guo     |       |          |
 |crowdsourcing			|       |       |          |
@@ -32,5 +32,6 @@
 |Matrix Completion| Yong-Heng Chen | 2017-11-21|
 |Clustering| Feng Shi | 2017-11-28|
 |Fairness| Tong Wei | 2017-12-04|
-|Optimization| Lan-Zhe Guo |
+|Optimization| Lan-Zhe Guo |  |
+|Embedding| Tong Wei |    |
 
