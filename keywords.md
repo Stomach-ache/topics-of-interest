@@ -3,7 +3,7 @@
 |Basketball			|   Tong Wei    |   2017-10-31   |     This is an example item   |
 |bandit			|       |       |          |
 |sparse coding		|       |       |          |	
-|hash			|       |       |          |
+|hash			| De-Ming Liang      | 2017-12-12       |          |
 |auto encoder			| Hao Liu      |       |          |
 |pca			|       |       |          |
 |submodular			|       |       |          |
