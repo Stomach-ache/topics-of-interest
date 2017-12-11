@@ -23,7 +23,7 @@
 |Boosting			|       |       |          |
 |Bagging			|       |       |          |
 |GAN			| Hao Liu      |       |          |
-|detection (cv)			|       |       |          |
+|detection (cv)			| De-Ming Liang     | 2017-12-12      |          |
 |Graphical model		|       |       |          |	
 |Graph-based Semi-Supervised Learning			|   Hao-Chen Dong   |       |          |
 |cross validation	|	Hao Liu	|       |       |
