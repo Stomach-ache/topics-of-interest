@@ -25,7 +25,7 @@
 |GAN			| Hao Liu      |       |          |
 |detection (cv)			|      |   |          |
 |Graphical model		|       |       |          |	
-|Graph-based Semi-Supervised Learning			|   Hao-Chen Dong   |       |          |
+|Graph-based Semi-Supervised Learning			|   Hao-Chen Dong   |   2017-12-20    |          |
 |cross validation	|	Hao Liu	|       |       |
 |EM Algorithm			|       |       |          |
 |Collaborative Filtering   |       |       |          |
