@@ -20,14 +20,14 @@
 |crowdsourcing			|       |       |          |
 |ADMM			|       |       |          |
 |BFGS			|   Hao-Chen Dong   |       |          |
-|Boosting			|       |       |          |
+|Boosting			|Feng Shi|       |          |
 |Bagging			|       |       |          |
 |GAN			| Hao Liu      |       |          |
 |detection (cv)			|      |   |          |
 |Graphical model		|       |       |          |	
 |Graph-based Semi-Supervised Learning			|   Hao-Chen Dong   |   2017-12-20    |          |
 |cross validation	|	Hao Liu	|       |       |
-|EM Algorithm			|       |       |          |
+|EM Algorithm			|Feng Shi|       |          |
 |Collaborative Filtering   |       |       |          |
 |Matrix Completion| Yong-Heng Chen | 2017-11-21|
 |Clustering| Feng Shi | 2017-11-28|
