@@ -1,3 +1,3 @@
 | Year       | Conference/Journal       | Title  | Remarks
 | ------------- |:-------------:| --------------:|------------:|
-|2006			|    ICDM   |    [Exploratory Under-Sampling for Class-Imbalance Learning](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm06d.pdf)  |  down-sampling and ensemble |
+|2006			|    ICDM   |    [Exploratory Under-Sampling for Class-Imbalance Learning](http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm06d.pdf)  |  down-sampling and ensemble; [Code in Matlab](http://lamda.nju.edu.cn/code_EasyEnsemble.ashx) |
