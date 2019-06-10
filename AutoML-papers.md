@@ -16,3 +16,4 @@
 | Year       | Conference/Journal       | Title  | Remarks
 | ------------- |:-------------:| --------------:|------------:|
 |2019			|    ICML   |    [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  |       |
+|2018     | NIPS | [Neural Architecture Optimization](http://papers.nips.cc/paper/8007-neural-architecture-optimization.pdf) | by MSRA, [Code](https://github.com/renqianluo/NAO) |
