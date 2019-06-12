@@ -10,6 +10,8 @@
 | Year       | Conference/Journal       | Title  | Remarks
 | ------------- |:-------------:| --------------:|------------:|
 |2019			|    AAAI   |    [ABC: Efficient Selection of Machine Learning Configuration on Large Dataset](https://arxiv.org/pdf/1811.03250.pdf)  |       |
+|2018     | JMLR      | [Hyperband: A Novel Bandit-Based Approach to
+Hyperparameter Optimization](https://arxiv.org/pdf/1603.06560.pdf) |  by Google|
 |2015     | AISTATS | [Non-stochastic Best Arm Identification and Hyperparameter Optimization](https://arxiv.org/pdf/1502.07943.pdf) |        |
 
 
