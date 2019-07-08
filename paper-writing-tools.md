@@ -1,5 +1,5 @@
 
-| Site       | Advantages        | Remarks
+| Site       | Advantages        | Remarks |
 | ------------- |: --------------:|------------:|
 | [Grammarly](https://grammarly.com) | typos/misspelling |  Check out Taobao for *Premium* features at a lower price
 | [Linggle](https://linggle.com/) | advanced searching |      |
