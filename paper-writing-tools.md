@@ -1,7 +1,7 @@
 
 | Site       | Advantages        | Remarks |
 | ------------- |:--------------:|------------:|
-| [Grammarly](https://grammarly.com) | typos/misspelling |  Check out Taobao for *Premium* features at a lower price
+| [Grammarly](https://grammarly.com) | typos/misspelling |  check out Taobao for *Premium* features at a lower price
 | [Linggle](https://linggle.com/) | advanced searching |      
 | [Scribens](https://www.scribens.com/) | advanced synonyms / collocations |
 | [PhraseBank](http://www.phrasebank.manchester.ac.uk/) |  | haven't tried yet 
