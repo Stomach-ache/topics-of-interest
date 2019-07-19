@@ -20,4 +20,4 @@ Note:
 
 # [Meta Learning](meta-learning-papers.md)
 
-# [PU Learning](../PU-Learning/pu-learning-papers.md)
+# [PU Learning](https://github.com/Stomach-ache/PU-Learning/blob/master/PU-learning-papers.md)
