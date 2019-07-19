@@ -1,4 +1,4 @@
-# LAMDA12-Keywords-List
+# [LAMDA12-Keywords-List](keywords.md)
 This page was created to maintain a list of keywords chosen to be introduced in our group meeting.
 
 Note:
@@ -12,3 +12,10 @@ Note:
     4. Theory
     5. Active researchers
     6. ...
+
+
+
+# [Self-paced Learning](self-paced learning.md)
+
+
+# [Meta Learning](meta-learning-papers.md)
