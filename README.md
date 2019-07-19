@@ -15,7 +15,9 @@ Note:
 
 
 
-# [Self-paced Learning](self-paced learning.md)
+# [Self-paced Learning](self-paced-learning.md)
 
 
 # [Meta Learning](meta-learning-papers.md)
+
+# [PU Learning](../PU-Learning/pu-learning-papers.md)
