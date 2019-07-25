@@ -1,5 +1,5 @@
 
-## precision@k
+## precision@k 
 
 ```python
 from __future__ import print_function, absolute_import
@@ -7,7 +7,7 @@ from __future__ import print_function, absolute_import
 __all__ = ['accuracy']
 
 def accuracy(output, target, topk=(1,)):
-    """Computes the precision@k for the specified values of k"""
+    """Computes the precision@k for the specified values of k in Pytorch"""
     maxk = max(topk)
     batch_size = target.size(0)
 
