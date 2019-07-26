@@ -21,3 +21,9 @@ def accuracy(output, target, topk=(1,)):
         res.append(correct_k.mul_(100.0 / batch_size))
     return res
 ```
+
+## Shuffle (sample, label) paris
+```python
+from sklearn.utils import shuffle
+train_data, train_labels = shuffle(train_data, train_labels)
+```
