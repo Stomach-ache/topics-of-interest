@@ -27,3 +27,22 @@ def accuracy(output, target, topk=(1,)):
 from sklearn.utils import shuffle
 train_data, train_labels = shuffle(train_data, train_labels)
 ```
+
+
+## Create mini-batch
+```python
+class Batch(object):
+  def __init__(self, X, y, batch_size):
+    self.batch_size = batch_size
+    self.X = X
+    self.y = y
+    self.size = X.shape[0]
+  def getBatch(self):
+    indices = np.random.choice(range(self.size), self.batch_size)
+    return self.X[indices], self.y[indices]
+
+x_train = x_train.reshape([-1, 28, 28, 1])
+
+batch_size = 512
+batch = Batch(x_train, y_train, batch_size)
+```
