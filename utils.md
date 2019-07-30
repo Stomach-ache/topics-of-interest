@@ -46,3 +46,6 @@ x_train = x_train.reshape([-1, 28, 28, 1])
 batch_size = 512
 batch = Batch(x_train, y_train, batch_size)
 ```
+
+## Anaconda create/remove environment
+[Tutorial](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
