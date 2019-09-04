@@ -12,3 +12,4 @@ This page lists some paper writing tools I found very usually.
 | [DBLP](https://dblp.uni-trier.de/) | more elaborate bibtex than Google scholar |
 | [Overleaf](https://www.overleaf.com/) | share and edit latex with collaborators |
 | [Google Dataset Search](https://toolbox.google.com/datasetsearch) | Searching for dataset info. |    |
+|[Seaborn](http://seaborn.pydata.org/index.html) | Plot graphs in Python |  |
