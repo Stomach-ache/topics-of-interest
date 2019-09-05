@@ -13,5 +13,5 @@
 |Deep Active Learning with a **Neural Architecture Searc**h |  Technion |
 |On the Statistical Properties of **Multilabel Learning** | WHU, Weiwei Liu |
 |AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance **Extreme Multi-Label Text Classification** |  FDU |
-|**Learning Imbalanced Datasets** with Label-Distribution-Aware Margin Loss | by Stanford |
+|**Learning Imbalanced Datasets** with Label-Distribution-Aware Margin Loss | Stanford |
  
