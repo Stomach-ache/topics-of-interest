@@ -1,6 +1,6 @@
 
 
-| Section       | Description       | 
+| Title       | Affiliation       | 
 | ------------- |:-------------:|
 |**Positive-Unlabeled** Compression on the Cloud			|    by Huawei   |      |
 |**Multilabel** reductions: what is my loss optimising?		|   by Google   |      |
