@@ -11,3 +11,4 @@
 | Year       | Conference/Journal       | Title  | Remarks
 | ------------- |:-------------:| --------------:|------------:|
 |2019			|    ICML   |    [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)  |   by Google    |
+|2019     |     ICML  | [Complementary-Label Learning for Arbitrary Losses and Models](http://proceedings.mlr.press/v97/ishida19a/ishida19a.pdf) | [supp](http://proceedings.mlr.press/v97/ishida19a/ishida19a-supp.pdf)
