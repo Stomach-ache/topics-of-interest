@@ -49,3 +49,6 @@ batch = Batch(x_train, y_train, batch_size)
 
 ## Anaconda create/remove environment
 [Tutorial](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
+
+## Fix random seeds (for reproducibility)
+[Pytorch Notes](https://pytorch.org/docs/stable/notes/randomness.html)
