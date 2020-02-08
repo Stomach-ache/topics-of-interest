@@ -1,4 +1,4 @@
-This page lists some paper writing tools I found very usually.
+This page lists some useful tools in the process of producing academic garbage, e.g., paper writing tools and experiments management tool.
 
 
 | Site       | Advantages        | Remarks |
