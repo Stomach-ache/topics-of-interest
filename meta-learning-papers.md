@@ -1,4 +1,4 @@
-| Year       | Conference/Journal       | Title  | Remarks
+| Year       | Venue       | Title  | Remarks
 | ------------- |:-------------:| --------------:|------------:|
 |1976			|    Advances in computers   |    [The algorithm selection problem](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.461.7199&rep=rep1&type=pdf)  |       |
 |1997 | MLJ | [Tracking context changes through meta-learning](https://link.springer.com/content/pdf/10.1023%2FA%3A1007365809034.pdf) |
