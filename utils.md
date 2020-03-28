@@ -4,6 +4,12 @@ Table of Contents
 
 [Data Shuffling](#shuffle)
 
+[Conda Enviroment](#condaenv)
+
+[Fix Random Seed](#randseed)
+
+[LaTeX Tabular to DataFrame](#table2df)
+
 
 ## precision@k  (*Pytorch*)<a name="precision"></a>
 
@@ -53,13 +59,13 @@ batch_size = 512
 batch = Batch(x_train, y_train, batch_size)
 ```
 
-## Anaconda create/remove environment
+## Anaconda create/remove environment<a name="condaenv"></a>
 [Tutorial](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
 
-## Fix random seeds (for reproducibility)
+## Fix random seeds (for reproducibility)<a name="randseed"></a>
 [Pytorch Notes](https://pytorch.org/docs/stable/notes/randomness.html)
 
-## Conversion between LaTeX Tabular and Pandas DataFrame
+## Conversion between LaTeX Tabular and Pandas DataFrame<a name="table2df"></a>
 ```python
 # -*- coding: utf-8 -*-
 import pandas as pd
