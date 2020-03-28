@@ -1,5 +1,11 @@
+Table of Contents
+=================
+[Precision@k](#precision)
 
-## precision@k  (*Pytorch*)
+[Data Shuffling](#shuffle)
+
+
+## precision@k  (*Pytorch*)<a name="precision"></a>
 
 ```python
 from __future__ import print_function, absolute_import
@@ -22,7 +28,7 @@ def accuracy(output, target, topk=(1,)):
     return res
 ```
 
-## Shuffle (sample, label) paris
+## Shuffle (sample, label) paris<a name="shuffle"></a>
 ```python
 from sklearn.utils import shuffle
 train_data, train_labels = shuffle(train_data, train_labels)
