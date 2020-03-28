@@ -1,13 +1,9 @@
 ## Table of Contents
-[Precision@k](#precision)
-
-[Data Shuffling](#shuffle)
-
-[Conda Enviroment](#condaenv)
-
-[Fix Random Seed](#randseed)
-
-[LaTeX Tabular to DataFrame](#table2df)
+[Precision@k](#precision)<br>
+[Data Shuffling](#shuffle)<br>
+[Conda Enviroment](#condaenv)<br>
+[Fix Random Seed](#randseed)<br>
+[LaTeX Tabular to DataFrame](#table2df)<br>
 
 
 --------------
