@@ -52,3 +52,70 @@ batch = Batch(x_train, y_train, batch_size)
 
 ## Fix random seeds (for reproducibility)
 [Pytorch Notes](https://pytorch.org/docs/stable/notes/randomness.html)
+
+## Conversion between LaTeX Tabular and Pandas DataFrame
+```python
+# -*- coding: utf-8 -*-
+import pandas as pd
+import numpy as np
+import re
+
+def tabular2df(filename):
+    with open(filename, 'r') as fp:
+        table = fp.read().splitlines()
+
+    df = []
+    for line in table:
+        if line.startswith('\\'):
+            continue
+        if line[-1] == '\\':
+            line = line[:-2]
+        line = line.split('&')
+        for i, cell in enumerate(line):
+            if i == 0:
+                continue
+            regex = re.search(r"\d", cell)
+            if regex == None:
+                continue
+            else:
+                line[i] = cell[regex.start():]
+        df.append(line)
+
+    df = np.array(df)
+    columns = df[0, 1:]
+    index = df[1:, 0]
+    data = df[1:, 1:]
+    df = pd.DataFrame(data=data, columns=columns, index=index)
+    return df
+
+def calc_average_and_rank(df, column_wise=True):
+    if column_wise == False:
+        df = df.T
+
+    avg = []
+    for col in df.columns:
+        data = df[col]
+        if isinstance(data[0], str):
+            data = list(map(float, data))
+        avg.append(np.mean(data))
+    avg = np.array(avg)
+    tmp = np.argsort(avg)[::-1]
+    rnk = np.arange(len(avg))
+    for i, v in enumerate(tmp):
+        rnk[v] = i + 1
+
+    return avg, rnk
+
+def highlight_max(df):
+    # row-wise max
+    for i in range(df.shape[0]):
+        row = df.iloc[i]
+        if isinstance(row[0], str):
+            row = list(map(float, row))
+        pos = np.argmax(row)
+        df.iloc[i, pos] = '\\bf' + df.iloc[i, pos]
+    return df
+
+def df2tabular(df):
+    return df.to_latex(float_format="%.4f", escape=False)
+```
