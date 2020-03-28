@@ -1,5 +1,4 @@
 ## Table of Contents
-=================
 [Precision@k](#precision)
 
 [Data Shuffling](#shuffle)
