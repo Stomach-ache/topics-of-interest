@@ -1,4 +1,4 @@
-Table of Contents
+## Table of Contents
 =================
 [Precision@k](#precision)
 
@@ -9,6 +9,9 @@ Table of Contents
 [Fix Random Seed](#randseed)
 
 [LaTeX Tabular to DataFrame](#table2df)
+
+
+--------------
 
 
 ## precision@k  (*Pytorch*)<a name="precision"></a>
