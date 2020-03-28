@@ -1,4 +1,4 @@
-## Table of Contents
+## Table of Contents<a name="top"></a>
 [Precision@k](#precision)<br>
 [Data Shuffling](#shuffle)<br>
 [Conda Enviroment](#condaenv)<br>
@@ -129,3 +129,4 @@ def highlight_max(df):
 def df2tabular(df):
     return df.to_latex(float_format="%.4f", escape=False)
 ```
+[back to top](#top)
