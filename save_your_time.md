@@ -7,3 +7,7 @@
 
 ## Pytorch Classification
 1. [pytorch-classification](https://github.com/bearpaw/pytorch-classification), recommended by Wen-Hai.
+
+
+## Git
+1. [A collection of useful .gitignore templates](https://github.com/github/gitignore)
