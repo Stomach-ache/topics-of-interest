@@ -4,6 +4,7 @@
 [Conda Enviroment](#condaenv)<br>
 [Fix Random Seed](#randseed)<br>
 [LaTeX Tabular to DataFrame](#table2df)<br>
+[LaTex Tree Diagram with TiKZ](#tikz-tree)<br>
 
 
 --------------
@@ -129,4 +130,31 @@ def highlight_max(df):
 def df2tabular(df):
     return df.to_latex(float_format="%.4f", escape=False)
 ```
+
+## Tree Diagrame with TiKZ<a name="tikz-tree"></a>
+```latex
+\begin{figure*}
+\centering
+\begin{tikzpicture}[every tree node/.style={draw=black,thick,rounded corners},sibling distance=.25cm, grow = right, level distance = 8em, anchor = west, edge from parent fork right,
+level 1/.style={sibling distance=3em},level 2/.style={sibling distance=2em} ]
+
+\Tree[.XML 
+[.Evaluation [.{Label propensity~\cite{jain2016propensity}} ]
+[.{Coverage~\cite{babbar2017dismec}} ]
+]
+[.{Data scarcity}
+[.{Missing label} {LEML~\cite{yu2014leml}} {Propensity scored loss~\cite{jain2016propensity}} ]
+[.{Tail label} {Specific losses~\cite{jain2016propensity}} {Tail label pruning~\cite{wei2018ijcai}} {Label-specific feature~\cite{wei2019ijcai}} {Matrix decomposition~\cite{xu2016reml}} {Knowledge transfer~\cite{anonymous2020deepxml}} ]
+[.{Feature sparsity} {Dense embedding~\cite{you2018attentionxml,chuanguo2019nips,anonymous2020deepxml,xbert2019}} ]
+]
+[.Scalability 
+[.{Model size} {Sparse regularizer~\cite{yen2016pd,yen2017ppd}} {Weight pruning~\cite{babbar2017dismec}} ] 
+[.{Inference time} {Tree-based methods~\cite{Prabhu2014fastxml,jain2016propensity,khandagale2019bonsai,you2018attentionxml}} {Label filter~\cite{niculescu2016labelfilter}} ]
+[.{Training time} {Parallelization~\cite{babbar2017dismec}} {Label partitioning~\cite{Prabhu2014fastxml,prabhu2018parabel}} {GPU~\cite{xbert2019,chuanguo2019nips}} ]
+]
+]
+\end{tikzpicture}
+\end{figure*}
+```
+
 [back to top](#top)
