@@ -16,4 +16,4 @@
 1. [Online powerful table converter](https://tableconvert.com)
 
 ## Jupyter Notebook on Server
-1. [Use jupyter notebook on Linux server)(https://zhuanlan.zhihu.com/p/75354006)
+1. [Use jupyter notebook on Linux server](https://zhuanlan.zhihu.com/p/75354006)
