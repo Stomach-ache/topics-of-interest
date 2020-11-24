@@ -11,6 +11,7 @@
 | BMVC | 2018 | [Weakly-Supervised Video Object Grounding from Text by Loss Weighting and Object Interaction](http://bmvc2018.org/contents/papers/0070.pdf) | |
 
 - **Video Classificiation**
+
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 | 2020 | CVPR | [End-to-End Learning of Visual Representations from Uncurated Instructional Videos](https://openaccess.thecvf.com/content_CVPR_2020/papers/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.pdf) | MIL-NCE |
