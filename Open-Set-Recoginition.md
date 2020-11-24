@@ -18,7 +18,7 @@
 | 2018 | ECCV | [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://openaccess.thecvf.com/content_ECCV_2018/papers/Saining_Xie_Rethinking_Spatiotemporal_Feature_ECCV_2018_paper.pdf) | S3D, I3D |
 | 2017 | CVPR | [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750.pdf) | I3D |
 
--- **Learning Representation**
+- **Learning Representation**
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 |2020 | NeurIPS | [Self-Supervised MultiModal Versatile Networks](https://proceedings.neurips.cc//paper/2020/file/0060ef47b12160b9198302ebdb144dcf-Paper.pdf) | NCE + MIL-NCE |
