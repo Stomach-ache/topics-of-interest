@@ -30,3 +30,4 @@
 | ------------- |:-------------:| --------------:|------------:|
 | 2020 | arXiv | [Deep Weakly Supervised Domain Adaptation for Pain Localization in Videos](https://arxiv.org/pdf/1910.08173.pdf) | MIL |
 | 2020 | ECCV | [MINI-Net: Multiple Instance Ranking Network for Video Highlight Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580341.pdf) | highlight detection |
+| 2011 | ICCV | [Handling Label Noise in Video Classification via Multiple Instance Learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37390.pdf) | MIL |
