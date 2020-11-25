@@ -25,6 +25,7 @@
 |2020 | NeurIPS | [Self-Supervised MultiModal Versatile Networks](https://proceedings.neurips.cc//paper/2020/file/0060ef47b12160b9198302ebdb144dcf-Paper.pdf) | NCE + MIL-NCE |
 
 - **Weakly Supervised Video Classification**
+
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 | 2020 | arXiv | [Deep Weakly Supervised Domain Adaptation for Pain Localization in Videos](https://arxiv.org/pdf/1910.08173.pdf) | MIL |
