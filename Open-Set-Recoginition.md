@@ -28,7 +28,7 @@
 
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
-| 2020 | arXiv } [Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning](https://arxiv.org/pdf/2004.00163.pdf) | MIL |
+| 2020 | arXiv | [Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning](https://arxiv.org/pdf/2004.00163.pdf) | MIL |
 | 2020 | arXiv | [Deep Weakly Supervised Domain Adaptation for Pain Localization in Videos](https://arxiv.org/pdf/1910.08173.pdf) | MIL |
 | 2020 | ECCV | [MINI-Net: Multiple Instance Ranking Network for Video Highlight Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580341.pdf) | highlight detection, [code](https://github.com/harlanhong/MINI-NET) |
 | 2017 | ICCV | [Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/Yang_Unsupervised_Extraction_of_ICCV_2015_paper.pdf) | highlight detection |
