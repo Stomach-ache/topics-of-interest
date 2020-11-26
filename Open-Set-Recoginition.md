@@ -33,3 +33,9 @@
 | 2017 | ICCV | [Unsupervised Extraction of Video Highlights Via Robust Recurrent Auto-encoders](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/03/Yang_Unsupervised_Extraction_of_ICCV_2015_paper.pdf) | highlight detection |
 | 2017 | arXiv | [Less is More: Learning Highlight Detection from Video Duration](https://arxiv.org/pdf/1903.00859.pdf) | unsupervised highlight detection |
 | 2011 | ICCV | [Handling Label Noise in Video Classification via Multiple Instance Learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37390.pdf) | MIL |
+
+- **Webly Supervised Learning**
+
+| Year       | Venue       | Title  | Remark
+| ------------- |:-------------:| --------------:|------------:|
+| 2018 | CVPR | [Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Webly_Supervised_Learning_CVPR_2018_paper.pdf) | |
