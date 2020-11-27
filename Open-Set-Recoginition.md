@@ -16,6 +16,7 @@
 | ------------- |:-------------:| --------------:|------------:|
 | 2020 | CVPR | [End-to-End Learning of Visual Representations from Uncurated Instructional Videos](https://openaccess.thecvf.com/content_CVPR_2020/papers/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.pdf) | MIL-NCE |
 | 2018 | ECCV | [Rethinking Spatiotemporal Feature Learning: Speed-Accuracy Trade-offs in Video Classification](https://openaccess.thecvf.com/content_ECCV_2018/papers/Saining_Xie_Rethinking_Spatiotemporal_Feature_ECCV_2018_paper.pdf) | S3D, I3D |
+| 2018 | ECCV | [BSN: Boundary Sensitive Network for Temporal Action Proposal Generation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tianwei_Lin_BSN_Boundary_Sensitive_ECCV_2018_paper.pdf) | (start, end) of activities are given as annotations | 
 | 2017 | CVPR | [Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset](https://arxiv.org/pdf/1705.07750.pdf) | I3D |
 
 - **Learning Representation**
