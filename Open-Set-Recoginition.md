@@ -41,3 +41,7 @@
 | Year       | Venue       | Title  | Remark
 | ------------- |:-------------:| --------------:|------------:|
 | 2018 | CVPR | [Webly Supervised Learning Meets Zero-shot Learning: A Hybrid Approach for Fine-grained Classification](https://openaccess.thecvf.com/content_cvpr_2018/papers/Niu_Webly_Supervised_Learning_CVPR_2018_paper.pdf) | |
+
+
+- **Temporal Action Localization**
+[Awesome TAL Paper](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)
