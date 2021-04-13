@@ -3,7 +3,8 @@ This page lists some useful tools in the process of producing academic garbage, 
 
 | Site       | Advantages        | Remarks |
 | ------------- |:--------------:|------------:|
-| [Grammarly](https://grammarly.com) | typos/misspelling |  check out Taobao for *Premium* features at a lower price
+| [InstaText](https://instatext.io/editor/) | typos/misspelling |   |
+| [Grammarly](https://grammarly.com) | typos/misspelling |  check out Taobao for *Premium* features at a lower price |
 | [Linggle](https://linggle.com/) | pattern search  |     I personally don't find it useful |
 | [Scribens](https://www.scribens.com/) | advanced synonyms / collocations |
 | [PhraseBank](http://www.phrasebank.manchester.ac.uk/) |  | haven't tried yet 
@@ -15,3 +16,5 @@ This page lists some useful tools in the process of producing academic garbage, 
 |[Seaborn](http://seaborn.pydata.org/index.html) | Plot graphs in Python |  |
 |[Datmo](https://github.com/datmo/datmo) | experiments management | automatically dump hyperparameters, statistics |
 |[DVC](https://github.com/iterative/dvc) | Data Verision Control | data and model management and sharing |
+|[Anonymous Github](https://anonymous.4open.science/) | submit anonymous code |
+|[Instant Email](https://www.linshiyouxiang.net/) | temporary emall address |
