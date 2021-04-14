@@ -1,6 +1,8 @@
-# Awesome Semi-Supervised Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Weakly-Supervised Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### :high_brightness: Updated 2021-04-14
+
+## Semi-Supervised Learning
 
 | Year       | Venue       | Title  | Remarks
 | ------------- |:-------------:| --------------:|------------:|
@@ -12,3 +14,15 @@
 |2018			|    T-PAMI   |    [Virtual adversarial training: a regularization method for supervised and semi-supervised learning](https://arxiv.org/pdf/1704.03976.pdf)  |       |
 |2006			|    ICML   |    [Deterministic Annealing for Semi-supervised Kernel Machines](http://www.keerthis.com/danneal_icml_sindhwani_06.pdf)  |       |
 
+
+## Learning from Noisy Labels
+
+| Year       | Venue       | Title  | Remarks
+| ------------- |:-------------:| --------------:|------------:|
+|2021     | OpenReview | [LEARNING FROM NOISY DATA WITH ROBUST REPRESENTATION LEARNING](https://openreview.net/forum?id=D1E1h-K3jso) | label embedding |
+
+
+## Open-Set Recognition
+| Year       | Venue       | Title  | Remarks
+| ------------- |:-------------:| --------------:|------------:|
+|2020     | arXiv | [Semi-Supervised Class Discovery](https://arxiv.org/pdf/2002.03480.pdf) | by Google Research, new class dicovery |
